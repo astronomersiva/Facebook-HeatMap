@@ -8,7 +8,7 @@ oauth_access_token = 'Enter access token here'
 graph = GraphAPI(oauth_access_token)
 
 #Will be used to launch a web browser and view the output
-filepath = 'file:///c:/python27/FBHeatMap.html'
+filepath = 'file:///FBHeatMap.html'
 
 #Initialise a list to store the locations of friends.
 myLocations=[]
